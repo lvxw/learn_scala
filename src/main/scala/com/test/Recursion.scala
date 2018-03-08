@@ -30,14 +30,10 @@ object Recursion {
 
 
   def main(args: Array[String]): Unit = {
-    for(i <- 1 to 10){
-      println(factorial(i))
-    }
+    println(factorial(10000))
 
 
-    for(i <- 1 to 10){
-      println(factorial2(i))
-    }
+//    println(factorial2(10000))
   }
 
 }
