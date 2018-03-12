@@ -1,5 +1,4 @@
-package com.test
-
+package com.test.other
 
 /**
   * 测试scala变量

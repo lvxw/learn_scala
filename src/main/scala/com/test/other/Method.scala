@@ -1,4 +1,4 @@
-package com.test
+package com.test.other
 
 case class Point(x:Double = 0.0, y:Double = 0.0){
 

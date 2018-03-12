@@ -1,4 +1,4 @@
-package com.test
+package com.test.other
 
 /**
   * 测试 集合转为参数化列表

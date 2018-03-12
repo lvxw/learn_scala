@@ -1,4 +1,4 @@
-package com.test
+package com.test.other
 
 class Person(val name:String,var age:Int){
 

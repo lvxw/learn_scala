@@ -1,4 +1,4 @@
-package com.test
+package com.test.other
 
 object HigerOrderFunction2 {
   def main(args: Array[String]): Unit = {

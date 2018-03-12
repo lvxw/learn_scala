@@ -1,4 +1,4 @@
-package com.test
+package com.test.other
 
 import scala.annotation.tailrec
 
