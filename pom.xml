@@ -8,5 +8,7 @@
     <artifactId>learn_scala</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
 
+    </dependencies>
 </project>
