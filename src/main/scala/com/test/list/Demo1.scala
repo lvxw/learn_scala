@@ -1,4 +1,4 @@
-package com.test.TestList
+package com.test.list
 
 object Demo1 extends App {
 
